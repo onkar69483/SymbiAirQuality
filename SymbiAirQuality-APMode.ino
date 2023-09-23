@@ -1,4 +1,4 @@
-//Works in Access-Point Mode, i.e. Creates its own Wi-Fi network, hosts a webpage which can be accessed with certain IP address in this case 172.0.0.1
+//Works in Access-Point Mode, i.e. Esp8266 Creates its own Wi-Fi network, hosts a webpage which can be accessed with certain IP address in this case 172.0.0.1
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <DHT.h>
