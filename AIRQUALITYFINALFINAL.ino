@@ -8,8 +8,8 @@ const int gasPin = A0; // Define the pin for the gas sensor
 int gasVal = 0;
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* ssid = "Redmi";        // Replace with your network SSID
-const char* password = "d2c321fbf48d"; // Replace with your network password
+const char* ssid = "WifiSSID";        // Replace with your network SSID
+const char* password = "PASS"; // Replace with your network password
 
 ESP8266WebServer server(80);
 
