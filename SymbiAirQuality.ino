@@ -9,7 +9,7 @@ const int gasPin = A0; // Define the pin for the gas sensor
 int gasVal = 0;
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* ssid     = "GetAirQuality";;        // Replace with your network SSID
+const char* ssid     = "SymbiAirQuality";;        // Replace with your network SSID
 
 
 // Init System Settings
