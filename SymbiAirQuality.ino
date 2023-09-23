@@ -10,7 +10,7 @@ int gasVal = 0;
 DHT dht(DHTPIN, DHTTYPE);
 
 const char* ssid     = "GetAirQuality";;        // Replace with your network SSID
-//const char* password = "sas111222"; // Replace with your network password
+
 
 // Init System Settings
 const byte HTTP_CODE = 200;
