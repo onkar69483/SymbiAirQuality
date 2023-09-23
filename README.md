@@ -67,7 +67,7 @@ Connect your sensors to the ESP8266 NodeMCU according to your setup and update p
 
 2. Find the IP address assigned to your ESP8266 in your router's admin interface or use mDNS.
 
-3. Access the webpage by entering the IP address in the serial monitor in your browser's address bar.
+3. Access the webpage by entering the IP address in your browser's address bar.
 
 ## Screenshots
 
