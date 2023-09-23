@@ -1,3 +1,4 @@
+//Works in Station Mode, i.e. Connects to a Wi-Fi network, hosts a webpage which can be accessed with certain IP address
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <DHT.h>
